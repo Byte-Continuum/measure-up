@@ -5,27 +5,3 @@ title: MeasureUp
 # Description
 Your go-to companion for quick and easy unit conversions! Whether you're baking, building, or simply curious, MeasureUp effortlessly translates between metric, customary, and imperial measurements. Say goodbye to conversion headaches and hello to instant clarity.
 
-# Privacy Policy for MeasureUp Android Application
-
-## Effective Date: April 21, 2025
-This privacy policy explains how the MeasureUp Android application (the "App") handles user data.
-
-## Data Collection, Storage, and Sharing:
-We want to assure you that the App **does not collect, store, or share any personal data** from its users. This means that:
-* We do not ask for or collect any personally identifiable information such as your name, email address, phone number, location, contacts, or any other personal details.
-* The App does not transmit any user data off your device. All data generated or used within the App remains solely on your device.
-* We do not use any third-party services that collect or track your data.
-* We do not display any advertisements within the App, and therefore, no advertising networks or related tracking mechanisms are employed.
-
-## Permissions:
-The App **does not require any special permissions** beyond the basic functionality necessary to run on your Android device.
-
-## Children's Privacy:
-As we do not collect any personal data, the App does not knowingly collect personal information from children under the age of 13 (or the applicable age of digital consent in your jurisdiction).
-
-## Changes to This Privacy Policy:
-As the App does not collect, store, or share any user data, we do not anticipate making changes to this privacy policy. However, if any future updates introduce data handling practices, we will update this policy accordingly and provide notice within the App or through the app store.
-
-## Contact Us:
-If you have any questions or concerns regarding this privacy policy, please contact us through the Google Play Store listing.
-By using the MeasureUp Android application, you acknowledge that you have read and understood this Privacy Policy.
